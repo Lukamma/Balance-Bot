@@ -1,3 +1,9 @@
+/******************************************************************************************************
+ * Projekt:       BalanceBot
+ * Erstelldatum:  05.11.21
+ * Beteiligt:     Lukas Ammann und Philipp Lichtleitner
+ * Funktion:      Funktionen für den Sensor gy521 mit Beschleuninigung und Winkelgeschwindigkeit
+ *****************************************************************************************************/
 #include <Wire.h>
 #define MPU_I2C_address 0x68
 
